@@ -6,6 +6,9 @@ The code snippets are provided as examples only... if you run them, then it is a
 The terra2 directory provides example terraform code.
 The vpc-scripts directory provides example shell scripts, using ibmcloud CLI commands to build VPC infrastructure. 
 
+The vpc-api directory provides an example python program that will retrieve details of any VPC you currently have in the region you are connected to and another program that will create a VPC.... or at least the start of one!
+
+
 
 The following links provide further information / required downloads:
 
