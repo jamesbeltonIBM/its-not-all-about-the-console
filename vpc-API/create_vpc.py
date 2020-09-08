@@ -1,4 +1,6 @@
-# set up the ibm_vpc SDK
+# this code uses the ibm_vpc client library
+# the client library can be installed using:
+# pip install --upgrade "ibm-vpc>=0.0.3"
 
 from ibm_vpc import VpcV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
