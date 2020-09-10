@@ -1,3 +1,6 @@
+# see https://github.com/jamesbeltonIBM/Mount-an-IBM-COS-bucket-to-Linux-using-s3fs for more information
+# about what's going on in this file.
+
 #cloud-config
 runcmd:
  - add-apt-repository main
